@@ -1,2 +1,2 @@
-# HotelWeb
-Un front-end que permite administrar un complejo hotelero.
+# Blog Escolar
+Sitio escolar para un proyecto sobre rendimiento academico
